@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nuclear-dating-calculator/static/css/main.68efdbbc.css",
+    "main.js": "/nuclear-dating-calculator/static/js/main.ff011c28.js",
+    "static/js/453.fc5ce24f.chunk.js": "/nuclear-dating-calculator/static/js/453.fc5ce24f.chunk.js",
+    "index.html": "/nuclear-dating-calculator/index.html",
+    "main.68efdbbc.css.map": "/nuclear-dating-calculator/static/css/main.68efdbbc.css.map",
+    "main.ff011c28.js.map": "/nuclear-dating-calculator/static/js/main.ff011c28.js.map",
+    "453.fc5ce24f.chunk.js.map": "/nuclear-dating-calculator/static/js/453.fc5ce24f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68efdbbc.css",
+    "static/js/main.ff011c28.js"
+  ]
+}
